@@ -1,2 +1,2 @@
 # fundscybersec
-Cybersecurity Fundaments' Course
+Cybersecurity's Fundaments Course
